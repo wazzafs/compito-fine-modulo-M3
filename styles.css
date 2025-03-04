@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color:#141414;
+    font-family: Arial, sans-serif;
+  }
+  
+.search-box {
+    max-width: 200px;
+    
+  }
+
+  
+  .card-container {
+    overflow: hidden;
+   transition: transform 0.3s ease;
+  }
+  
+  .card-container:hover {
+    transform: scale(1.20);
+  }
+  
+h1 {
+    font-size: 35px;
+}
+
+
+
+
+  
